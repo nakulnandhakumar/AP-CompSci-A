@@ -117,6 +117,37 @@ public class CalculatorGUI extends JFrame {
             saveValueOfArg1();
             saveValueOfMathOp(OPERATOR.MINUS);
         });
+        button_mult.addActionListener(e -> {
+            saveValueOfArg1();
+            saveValueOfMathOp(OPERATOR.MULTIPLY);
+        });
+        button_div.addActionListener(e -> {
+            saveValueOfArg1();
+            saveValueOfMathOp(OPERATOR.DIVIDE);
+        });
+        button_power.addActionListener(e -> {
+            saveValueOfArg1();
+            saveValueOfMathOp(OPERATOR.POWER);
+        });
+        button_mod.addActionListener(e -> {
+            saveValueOfArg1();
+            saveValueOfMathOp(OPERATOR.MOD);
+        });
+        button_sin.addActionListener(e -> {
+            saveValueOfArg1();
+            saveValueOfMathOp(OPERATOR.SIN);
+            calculateAnswer();
+        });
+        button_cos.addActionListener(e -> {
+            saveValueOfArg1();
+            saveValueOfMathOp(OPERATOR.COS);
+            calculateAnswer();
+        });
+        button_tan.addActionListener(e -> {
+            saveValueOfArg1();
+            saveValueOfMathOp(OPERATOR.TAN);
+            calculateAnswer();
+        });
         button_equals.addActionListener(e -> {
             saveValueOfArg2();
             calculateAnswer();
