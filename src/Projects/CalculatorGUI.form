@@ -30,8 +30,9 @@
           <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-262400"/>
-          <foreground color="-262400"/>
+          <background color="-16777216"/>
+          <enabled value="true"/>
+          <foreground color="-16777216"/>
           <text value="7"/>
         </properties>
       </component>
@@ -40,8 +41,9 @@
           <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-262400"/>
-          <foreground color="-262400"/>
+          <background color="-16777216"/>
+          <enabled value="true"/>
+          <foreground color="-16777216"/>
           <text value="4"/>
         </properties>
       </component>
@@ -50,8 +52,10 @@
           <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-262400"/>
-          <foreground color="-262400"/>
+          <background color="-16777216"/>
+          <enabled value="true"/>
+          <foreground color="-16777216"/>
+          <hideActionText value="false"/>
           <text value="1"/>
         </properties>
       </component>
@@ -60,8 +64,9 @@
           <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-262400"/>
-          <foreground color="-262400"/>
+          <background color="-16777216"/>
+          <enabled value="true"/>
+          <foreground color="-16777216"/>
           <text value="2"/>
         </properties>
       </component>
@@ -70,8 +75,9 @@
           <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-262400"/>
-          <foreground color="-262400"/>
+          <background color="-16777216"/>
+          <enabled value="true"/>
+          <foreground color="-16777216"/>
           <text value="5"/>
         </properties>
       </component>
@@ -80,8 +86,9 @@
           <grid row="3" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-262400"/>
-          <foreground color="-262400"/>
+          <background color="-16777216"/>
+          <enabled value="true"/>
+          <foreground color="-16777216"/>
           <text value="8"/>
         </properties>
       </component>
@@ -90,8 +97,8 @@
           <grid row="1" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-262400"/>
-          <foreground color="-262400"/>
+          <background color="-16777216"/>
+          <foreground color="-16777216"/>
           <text value="3"/>
         </properties>
       </component>
@@ -100,8 +107,8 @@
           <grid row="2" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-262400"/>
-          <foreground color="-262400"/>
+          <background color="-16777216"/>
+          <foreground color="-16777216"/>
           <text value="6"/>
         </properties>
       </component>
@@ -110,8 +117,8 @@
           <grid row="3" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-262400"/>
-          <foreground color="-262400"/>
+          <background color="-16777216"/>
+          <foreground color="-16777216"/>
           <text value="9"/>
         </properties>
       </component>
@@ -120,8 +127,8 @@
           <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-262400"/>
-          <foreground color="-262400"/>
+          <background color="-16777216"/>
+          <foreground color="-16777216"/>
           <text value="0"/>
         </properties>
       </component>
@@ -130,8 +137,8 @@
           <grid row="1" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-262400"/>
-          <foreground color="-262400"/>
+          <background color="-16777216"/>
+          <foreground color="-16777216"/>
           <text value="+"/>
         </properties>
       </component>
@@ -140,8 +147,8 @@
           <grid row="2" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-262400"/>
-          <foreground color="-262400"/>
+          <background color="-16777216"/>
+          <foreground color="-16777216"/>
           <text value="-"/>
         </properties>
       </component>
@@ -150,8 +157,8 @@
           <grid row="3" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-262400"/>
-          <foreground color="-262400"/>
+          <background color="-16777216"/>
+          <foreground color="-16777216"/>
           <text value="x"/>
         </properties>
       </component>
@@ -160,8 +167,8 @@
           <grid row="4" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-262400"/>
-          <foreground color="-262400"/>
+          <background color="-16777216"/>
+          <foreground color="-16777216"/>
           <text value="/"/>
         </properties>
       </component>
@@ -170,8 +177,8 @@
           <grid row="5" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-262400"/>
-          <foreground color="-262400"/>
+          <background color="-16777216"/>
+          <foreground color="-16777216"/>
           <text value="%"/>
         </properties>
       </component>
@@ -180,8 +187,8 @@
           <grid row="7" column="4" row-span="1" col-span="3" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-262400"/>
-          <foreground color="-262400"/>
+          <background color="-16777216"/>
+          <foreground color="-16777216"/>
           <text value="="/>
         </properties>
       </component>
@@ -193,7 +200,7 @@
           <background color="-197889"/>
           <font size="36"/>
           <foreground color="-197889"/>
-          <text value="Label"/>
+          <text value=""/>
         </properties>
       </component>
       <component id="d23" class="javax.swing.JButton" binding="button_cos">
@@ -201,8 +208,8 @@
           <grid row="7" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-262400"/>
-          <foreground color="-262400"/>
+          <background color="-16777216"/>
+          <foreground color="-16777216"/>
           <text value="cos"/>
         </properties>
       </component>
@@ -211,19 +218,9 @@
           <grid row="7" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-262400"/>
-          <foreground color="-262400"/>
+          <background color="-16777216"/>
+          <foreground color="-16777216"/>
           <text value="tan"/>
-        </properties>
-      </component>
-      <component id="1f59f" class="javax.swing.JButton" binding="button_power">
-        <constraints>
-          <grid row="6" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
-        </constraints>
-        <properties>
-          <background color="-262400"/>
-          <foreground color="-262400"/>
-          <text value="^"/>
         </properties>
       </component>
       <component id="a51d7" class="javax.swing.JButton" binding="button_sin">
@@ -231,9 +228,30 @@
           <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-262400"/>
-          <foreground color="-262400"/>
+          <background color="-16777216"/>
+          <enabled value="true"/>
+          <foreground color="-16777216"/>
           <text value="sin"/>
+        </properties>
+      </component>
+      <component id="1f59f" class="javax.swing.JButton" binding="button_power">
+        <constraints>
+          <grid row="6" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <foreground color="-16777216"/>
+          <text value="^"/>
+        </properties>
+      </component>
+      <component id="da6c1" class="javax.swing.JButton" binding="button_clear">
+        <constraints>
+          <grid row="6" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <foreground color="-16777216"/>
+          <text value="AC"/>
         </properties>
       </component>
     </children>
